@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "private": true,
-  "proxy": "http://localhost:5000",
+  "proxy": "https://contacts-book-app-u14t.onrender.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
